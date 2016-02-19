@@ -2,7 +2,7 @@
 
 How to programmatically use UILayoutGuide with separated views and view controllers
 
-### How to use
+#### How to use
 
 Open `AppDelegate.swift` and enable the View Controller whose behavior you want to observe. There are three:
 
