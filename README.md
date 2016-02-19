@@ -10,7 +10,7 @@ Open `AppDelegate.swift` and enable the View Controller whose behavior you want 
 * `SeparatedCustomViewController` is a custom UIViewController that has had its view separated into a separate file, `CustomView.swift`.
 * `GuidedSeparatedViewController` is a custom UIViewController with a separate view, `GuidedCustomView.swift`, that also handles its own UILayoutGuides.
 
-🌟I'll add more documentation later 🌟
+🌟There's more detailed documentation in the source code 🌟
 
 #### Sources
 
