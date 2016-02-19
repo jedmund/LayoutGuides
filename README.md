@@ -10,6 +10,8 @@ Open `AppDelegate.swift` and enable the View Controller whose behavior you want 
 * `SeparatedCustomViewController` is a custom UIViewController that has had its view separated into a separate file, `CustomView.swift`.
 * `GuidedSeparatedViewController` is a custom UIViewController with a separate view, `GuidedCustomView.swift`, that also handles its own UILayoutGuides.
 
+🌟I'll add more documentation later 🌟
+
 #### Sources
 
 * [_Swift Initialization and the Pain of Optionals_](http://blog.scottlogic.com/2014/11/20/swift-initialisation.html) by Colin Eberhardt
